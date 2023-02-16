@@ -14,3 +14,4 @@ Thid Document will explain for you the different steps in the pipeline.
 
 
 ### Illustration Diagram
+![Pipeline-architecture-diagram](https://user-images.githubusercontent.com/37004139/219265423-69fcdc3f-a5a5-4629-9053-f278a7742e76.png)
